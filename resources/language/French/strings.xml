@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="32000">Caméra 1</string>
+  <string id="32001">Active:</string>
+  <string id="32002">Lien URL:</string>
+  <string id="32003">Nom d'utilisateur:</string>
+  <string id="32004">Mot de passe:</string>
+  <string id="32005">Diagonale d'écran:</string>
+  <string id="32006">Position X:</string>
+  <string id="32007">Position Y:</string>
+  <string id="32008">Largeur:</string>
+  <string id="32009">Hauteur:</string>
+
+  <string id="32010">Caméra 2</string>
+  <string id="32020">Caméra 3</string>
+  <string id="32030">Caméra 4</string>
+  <string id="32040">Caméra 5</string>
+  <string id="32050">Caméra 6</string>
+  <string id="32060">Caméra 7</string>
+  <string id="32070">Caméra 8</string>
+  <string id="32080">Caméra 9</string>
+
+  <string id="32100">Grille Personalisée</string>
+
+  <string id="33000">Comportement</string>
+
+  <string id="33001">Largeur de la fenêtre:</string>
+  <string id="33002">Hauteur de la fenêtre:</string>
+  <string id="33003">Intervalle de rafraichissement (en millisecondes):</string>
+
+  <string id="33004">Activation de la fermeture automatique:</string>
+  <string id="33005">Durée (en secondes):</string>
+
+  <string id="33006">Enlignement:</string>
+  <string id="33007">Marge et remplissage (en pixels):</string>
+  <string id="33008">Animation ouverture/fermeture:</string>
+  <string id="33009">Utiliser grille personalisée:</string>
+
+  <string id="34000">Verticale: droite, du haut au bas</string>
+  <string id="34001">Verticale: gauche, du haut au bas</string>
+  <string id="34002">Horizontale: haut, de gauche à droite</string>
+  <string id="34003">Horizontale: bas, de gauche à droite</string>
+  <string id="34004">Carré: coin haut droite</string>
+  <string id="34005">Carré: coin haut gauche</string>
+  <string id="34006">Verticale: droite, de bas au haut</string>
+  <string id="34007">Verticale: gauche, de bas au haut</string>
+  <string id="34008">Horizontale: haut, de droite à gauche</string>
+  <string id="34009">Horizontale: bas, de droite à gauche</string>
+  <string id="34010">Carré: coin bas droite</string>
+  <string id="34011">Carré: coin bas gauche</string>
+
+  <string id="34020">Étirer l'image</string>
+  <string id="34021">Aggrandir l'image (Couper)</string>
+  <string id="34022">Rétrécir l'image (Barres noir)</string>
+
+  <string id="35000">Sélection de Caméra:</string>
+</strings>

@@ -1,0 +1,198 @@
+# Kodi Media Center language file
+# Addon Name: Security Cam Overlay
+# Addon id: script.securitycam
+# Addon Provider: Paulemann
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Paulemann\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#32000"
+msgid "Camera 1"
+msgstr "Caméra 1"
+
+msgctxt "#32001"
+msgid "Active:"
+msgstr "Active:"
+
+msgctxt "#32002"
+msgid "Image Url:"
+msgstr "Lien URL:"
+
+msgctxt "#32003"
+msgid "Username:"
+msgstr "Nom d'utilisateur:"
+
+msgctxt "#32004"
+msgid "Password:"
+msgstr "Mot de passe:"
+
+msgctxt "#32005"
+msgid "Aspect Ratio:"
+msgstr "Diagonale d'écran:"
+
+msgctxt "#32006"
+msgid "X Position:"
+msgstr "Position X:"
+
+msgctxt "#32007"
+msgid "Y Position:"
+msgstr "Position Y:"
+
+msgctxt "#32008"
+msgid "Width:"
+msgstr "Largeur:"
+
+msgctxt "#32009"
+msgid "Height:"
+msgstr "Hauteur:"
+
+msgctxt "#32010"
+msgid "Camera 2"
+msgstr "Caméra 2"
+
+msgctxt "#32020"
+msgid "Camera 3"
+msgstr "Caméra 3"
+
+msgctxt "#32030"
+msgid "Camera 4"
+msgstr "Caméra 4"
+
+msgctxt "#32040"
+msgid "Camera 5"
+msgstr "Caméra 5"
+
+msgctxt "#32050"
+msgid "Camera 6"
+msgstr "Caméra 6"
+
+msgctxt "#32060"
+msgid "Camera 7"
+msgstr "Caméra 7"
+
+msgctxt "#32070"
+msgid "Camera 8"
+msgstr "Caméra 8"
+
+msgctxt "#32080"
+msgid "Camera 9"
+msgstr "Caméra 9"
+
+msgctxt "#32100"
+msgid "Custom Grid"
+msgstr "Grille Personalisée"
+
+msgctxt "#33000"
+msgid "Behavior"
+msgstr "Comportement"
+
+msgctxt "#33001"
+msgid "Window Width:"
+msgstr "Largeur de la fenêtre:"
+
+msgctxt "#33002"
+msgid "Window Height:"
+msgstr "Hauteur de la fenêtre:"
+
+msgctxt "#33003"
+msgid "Refresh Interval (in milliseconds):"
+msgstr "Intervalle de rafraichissement (en millisecondes):"
+
+msgctxt "#33004"
+msgid "Enable auto-close after duration:"
+msgstr "Activation de la fermeture automatique:"
+
+msgctxt "#33005"
+msgid "Duration (in seconds):"
+msgstr "Durée (en secondes):"
+
+msgctxt "#33006"
+msgid "Alignment:"
+msgstr "Enlignement:"
+
+msgctxt "#33007"
+msgid "Padding (in Pixels):"
+msgstr "Marge et remplissage (en pixels):"
+
+msgctxt "#33008"
+msgid "Animate on open/close:"
+msgstr "Animation ouverture/fermeture:"
+
+msgctxt "#33009"
+msgid "Use Custom Grid:"
+msgstr "Utiliser grille personalisée:"
+
+msgctxt "#34000"
+msgid "Vertical: right, from top to bottom"
+msgstr "Verticale: droite, du haut au bas"
+
+msgctxt "#34001"
+msgid "Vertical: left, from top to bottom"
+msgstr "Verticale: gauche, du haut au bas"
+
+msgctxt "#34002"
+msgid "Horizontal: top, from left to right"
+msgstr "Horizontale: haut, de gauche à droite"
+
+msgctxt "#34003"
+msgid "Horizontal: bottom, from left to right"
+msgstr "Horizontale: bas, de gauche à droite"
+
+msgctxt "#34004"
+msgid "Square: right top"
+msgstr "Carré: coin haut droite"
+
+msgctxt "#34005"
+msgid "Square: left top"
+msgstr "Carré: coin haut gauche"
+
+msgctxt "#34006"
+msgid "Vertical: right, from bottom to top"
+msgstr "Verticale: droite, de bas au haut"
+
+msgctxt "#34007"
+msgid "Vertical: left, from bottom to top"
+msgstr "Verticale: gauche, de bas au haut"
+
+msgctxt "#34008"
+msgid "Horizontal: top, from right to left"
+msgstr "Horizontale: haut, de droite à gauche"
+
+msgctxt "#34009"
+msgid "Horizontal: bottom, from right to left"
+msgstr "Horizontale: bas, de droite à gauche"
+
+msgctxt "#34010"
+msgid "Square: right bottom"
+msgstr "Carré: coin bas droite"
+
+msgctxt "#34011"
+msgid "Square: left bottom"
+msgstr "Carré: coin bas gauche"
+
+msgctxt "#34020"
+msgid "Stretch"
+msgstr "Étirer l'image"
+
+msgctxt "#34021"
+msgid "Scale up (crops)"
+msgstr "Aggrandir l'image (Couper"
+
+msgctxt "#34022"
+msgid "Scale down (black bars)"
+msgstr "Rétrécir l'image (Barres noir)"
+
+msgctxt "#35000"
+msgid "Select Feed:"
+msgstr "Sélection de Caméra:"
+

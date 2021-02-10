@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="33000">
+    <setting label="33003" type="slider" id="interval" default="500" range="50,50,1000" option="int" />
+    <setting label="33004" type="bool" id="autoClose" default="true" />
+    <setting label="33005" type="slider" id="duration" default="15" range="3,1,120" subsetting="true" option="int" enable="eq(-1,true)" />
+    <setting label="33009" type="bool" id="customGrid" default="false" />
+  </category>
+  <category label="32000">
+    <setting label="32001" type="bool" id="active1" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url1" default="" />
+    <setting label="32003" type="text" id="username1" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password1" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio1" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx1" default="0" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy1" default="0" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width1" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height1" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32010">
+    <setting label="32001" type="bool" id="active2" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url2" default="" />
+    <setting label="32003" type="text" id="username2" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password2" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio2" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx2" default="427" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy2" default="0" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width2" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height2" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32020">
+	  <setting label="32001" type="bool" id="active3" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url3" default="" />
+    <setting label="32003" type="text" id="username3" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password3" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio3" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx3" default="854" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy3" default="0" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width3" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height3" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32030">
+	  <setting label="32001" type="bool" id="active4" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url4" default="" />
+    <setting label="32003" type="text" id="username4" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password4" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio4" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx4" default="0" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy4" default="240" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width4" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height4" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32040">
+	  <setting label="32001" type="bool" id="active5" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url5" default="" />
+    <setting label="32003" type="text" id="username5" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password5" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio5" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx5" default="427" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy5" default="240" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width5" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height5" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32050">
+	  <setting label="32001" type="bool" id="active6" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url6" default="" />
+    <setting label="32003" type="text" id="username6" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password6" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio6" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx6" default="854" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy6" default="240" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width6" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height6" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32060">
+	  <setting label="32001" type="bool" id="active7" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url7" default="" />
+    <setting label="32003" type="text" id="username7" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password7" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio7" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx7" default="0" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy7" default="480" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width7" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height7" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32070">
+	  <setting label="32001" type="bool" id="active8" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url8" default="" />
+    <setting label="32003" type="text" id="username8" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password8" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio8" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx8" default="427" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy8" default="480" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width8" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height8" default="240" enable="!eq(-8,)" />
+  </category>
+  <category label="32080">
+	  <setting label="32001" type="bool" id="active9" default="false" enable="!eq(1,)" />
+    <setting label="32002" type="text" id="url9" default="" />
+    <setting label="32003" type="text" id="username9" default="" enable="!eq(-1,)" />
+    <setting label="32004" type="text" id="password9" option="hidden" default="" enable="!eq(-1,)" />
+    <setting label="32005" type="enum" id="aspectRatio9" default="1" lvalues="34020|34021|34022" enable="!eq(-3,)" />
+    <setting label="32100" type="lsep" />
+    <setting label="32006" type="number" id="posx9" default="854" enable="!eq(-5,)" />
+    <setting label="32007" type="number" id="posy9" default="480" enable="!eq(-6,)" />
+    <setting label="32008" type="number" id="width9" default="427" enable="!eq(-7,)" />
+    <setting label="32009" type="number" id="height9" default="240" enable="!eq(-8,)" />
+  </category>
+</settings>
